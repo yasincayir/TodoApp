@@ -1,3 +1,3 @@
 # FLASKTODOAPP
 ***
-*ilk flask projesi
+* ilk flask projesi
