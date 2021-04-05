@@ -1,1 +1,3 @@
- FlaskTodoApp
+# FLASKTODOAPP
+***
+*ilk flask projesi
